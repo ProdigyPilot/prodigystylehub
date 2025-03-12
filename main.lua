@@ -1,7 +1,7 @@
 -- Prodigy Style Hub Script for Roblox Exploit (Solara v3)
 
 -- Load the library from your GitHub repository using loadstring
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/yourusername/reponame/main/GuiLibrary/lib.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/ProdigyPilot/prodigystylehub/main/GuiLibrary/lib.lua"))()
 
 -- Initialize the hub with a name, size, and key to open it
 local ProdigyHub = Library:New({
